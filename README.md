@@ -7,7 +7,7 @@ Yandex
 Chrome
 Edge (Chromium)
 Firefox
-Safari
+Safari.
 
 В данной вёрстке:
 
